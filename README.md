@@ -5,7 +5,7 @@ The goal for this project is to build a very simple django server (so simple tha
 
 [Cowsay](https://en.wikipedia.org/wiki/Cowsay) is a utility that has been around for a very long time, but is essentially just a toy. If you don't have it already, then you can install it simply by running:
 
-*   OSX: `brew install cowsay`
+*   OSX: `brew install cowsay` Note: If you're running Big Sur, follow these [instructions](http://macappstore.org/cowsay/) 
 *   Ubuntu / Debian: `sudo apt install cowsay`
 
 Sample usage: `cowsay "Hello, world!"`
